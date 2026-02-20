@@ -14,9 +14,9 @@ export default function Hero() {
 
           <div>
             <h1 className="text-5xl lg:text-7xl font-serif text-[#2C2C2C] mb-6 leading-tight">
-              Building Secure
+              IT Tech & Cybersecurity
               <br />
-              Digital Solutions
+              Engineer
             </h1>
             <div className="w-16 h-1 bg-[#7A9B7E] rounded-full mb-8"></div>
           </div>
