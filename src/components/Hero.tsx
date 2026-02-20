@@ -23,19 +23,10 @@ export default function Hero() {
 
           <div className="space-y-6 text-[#2C2C2C]/80 leading-relaxed">
             <p className="text-lg font-serif">
-              Hello, I'm a passionate IT professional specializing in building robust,
-              secure systems that protect what matters most. With a keen focus on
-              cybersecurity, I transform complex challenges into elegant solutions.
+              Hello, I'm Arthur, an IT Professional with over 8 years of experience supporting enterprise systems and network infrastructure. I specialize in hardware and software troubleshooting, network configuration, and delivering reliable technical support.
             </p>
             <p className="text-base">
-              My expertise spans network security, penetration testing, and secure
-              application development. I believe that great security shouldn't compromise
-              user experience—it should enhance it.
-            </p>
-            <p className="text-base">
-              When I'm not fortifying digital infrastructure, you'll find me exploring
-              the latest security frameworks, contributing to open-source projects,
-              or sharing knowledge with the tech community.
+              I'm extremely passionate about cybersecurity, and in my free time, I enjoy working on cybersecurity projects to continuously strengthen my skills and stay ahead of emerging threats.
             </p>
           </div>
 
