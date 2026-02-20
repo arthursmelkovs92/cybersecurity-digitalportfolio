@@ -15,7 +15,7 @@ export default function Header() {
             </div>
 
             <p className="text-lg text-[#2C2C2C]/70 font-light tracking-wide">
-              Cybersecurity & IT Solutions Architect
+              IT Tech/Engineer & Cybersecurity Enthusiast
             </p>
 
             <nav className="pt-8 flex flex-wrap justify-center gap-3 lg:gap-4">
