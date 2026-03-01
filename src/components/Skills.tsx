@@ -25,14 +25,9 @@ const skills: SkillCategory[] = [
     title: "Technical Expertise",
     icon: Briefcase,
     items: [
-      "Python & JavaScript/TypeScript",
-      "Cloud Security (AWS, Azure, GCP)",
-      "Docker & Kubernetes",
-      "CI/CD Pipelines",
-      "API Security",
-      "Database Security",
-      "Cryptography & Encryption",
-      "System Architecture Design"
+      "Usage of RITA to analyze and detect malicious network traffic",
+      "Usage of Wireshark for network traffic capturing",
+      "IDS/IPS snort"
     ]
   },
   {
