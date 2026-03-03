@@ -15,7 +15,7 @@ export default function TryHackMe() {
 
         <div className="flex justify-center">
           <a
-            href="https://tryhackme.com/p/yourprofile"
+            href="https://tryhackme.com/p/Hackbot404"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center gap-3 px-8 py-4 rounded-lg font-semibold text-white bg-[#7A9B7E] hover:bg-[#6A8B6E] transition-all duration-300 hover:shadow-lg hover:shadow-[#7A9B7E]/30 transform hover:scale-105"
