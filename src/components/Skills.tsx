@@ -28,10 +28,7 @@ const skills: SkillCategory[] = [
       "Usage of RITA to analyze and detect malicious network traffic",
       "Usage of Wireshark for network traffic capturing",
       "IDS/IPS snort",
-      "SIEM Platforms: Hands-on experience with Microsoft Sentinel, Splunk, and IBM QRadar for threat detection and response",
-      "Log Analysis and Correlation",
-      "Real-time Alerting and Threat Intelligence Integration",
-      "Cloud Security Monitoring"
+      "SIEM Platforms: Hands-on experience with Microsoft Sentinel, Splunk, and IBM QRadar for threat detection and response"
     ]
   },
   {
