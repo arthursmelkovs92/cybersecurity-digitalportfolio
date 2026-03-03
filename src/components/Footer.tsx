@@ -4,6 +4,21 @@ export default function Footer() {
   return (
     <footer id="contact" className="py-16 px-6 bg-[#2C2C2C]">
       <div className="max-w-7xl mx-auto">
+        <div className="mb-8 pb-8 border-b border-white/10">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+            <div>
+              <p className="text-white/60 text-sm uppercase tracking-wide mb-2">Get in Touch</p>
+              <a
+                href="mailto:arthursmelkovs@outloook.com"
+                className="text-white text-lg hover:text-[#7A9B7E] transition-colors duration-300"
+              >
+                arthursmelkovs@outloook.com
+              </a>
+            </div>
+            <p className="text-white/50 text-sm">Available for cybersecurity projects and consulting</p>
+          </div>
+        </div>
+
         <div className="flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-3">
             <div className="p-2 bg-[#7A9B7E] rounded-lg">
@@ -33,7 +48,7 @@ export default function Footer() {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="mailto:arthursmelkovs@outloook.com"
               className="p-3 bg-[#7A9B7E] rounded-lg text-white hover:bg-[#7A9B7E]/90 transition-colors duration-300"
             >
               <Mail className="w-5 h-5" />
